@@ -11,6 +11,7 @@ This repo ( repository ) ...
 ...
 
 <hr>
+
 ## Folder strucures are likely different
 * explore the apparent differences between a Team repo and a User repo
 
