@@ -1,2 +1,2 @@
-### Test file for StackRdot integrsation.
+### Test file for StackEdit integrsation.
 ...
