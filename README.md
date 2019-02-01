@@ -7,6 +7,7 @@ This repo ( repository ) ...
 
 <hr>
 
+* extend the ThreeByThree concept ( 3X3 = last + next 2 Events & next three decades )
 * set up more of the Community structure
 * review the GitHub BootCamp
 * integrate a StackEdit interface
