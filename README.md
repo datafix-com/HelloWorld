@@ -5,6 +5,8 @@ This repo ( repository ) ...
 * ask for confidentiality contracts & and written data transfer procedures
 * ask Warren if the emailed Teranet pages are an ecceptable initial starting point.
 
+<hr>
+
 * set up more of the Community structure
 * review the GitHub BootCamp
 * integrate a StackEdit interface
