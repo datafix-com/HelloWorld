@@ -2,6 +2,7 @@
 This repo ( repository ) ...
 
 ## NotesH(wo)
+* ask for confidentiality contracts & and written data transfer procedures
 * set up more of the Community structure
 * review the GitHub BootCamp
 * integrate a StackEdit interface
