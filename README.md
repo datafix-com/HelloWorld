@@ -3,7 +3,8 @@ This repo ( repository ) ...
 
 ## NotesH(wo)
 * ask for confidentiality contracts & and written data transfer procedures
-* ask Warren if the emailed Teranet pages are an ecceptable initial starting point.
+* review the "bucket" environment
+* ask Warren if the emailed Teranet pages are an acceptable initial starting point.
 
 <hr>
 
