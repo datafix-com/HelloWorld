@@ -6,6 +6,7 @@ This repo ( repository ) ...
 * ask for confidentiality contracts & and written data transfer procedures
 * review the "bucket" environment
 * ask Warren if the emailed Teranet pages are an acceptable initial starting point.
+* continue editing them
 
 <hr>
 
