@@ -2,7 +2,6 @@
 This repo ( repository ) ...
 
 ## NotesH(wo)
-* https://www.cbc.ca/news/politics/canada-security-cyber-threat-1.5010372
 * rank the initial opportunities as they are recognized.
 * ask for confidentiality contracts & and written data transfer procedures
 * review the "bucket" environment
