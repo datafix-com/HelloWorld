@@ -1,4 +1,7 @@
-### Test file for StackEdit integrsation.
+### background information
+* ...
+
+### Test file for StackEdit integration.
 
 StackEdit is just a Tool HwW finds it convenient to use.
 
