@@ -1,7 +1,7 @@
 # HelloWorld
 This repo ( repository ) ...
 
-## NotesH(wo)
+## NotesT(oDo)
 * rank the initial opportunities, as they are recognized.
 * ask for confidentiality contracts & and written data transfer procedures
 * review the "bucket" environment
