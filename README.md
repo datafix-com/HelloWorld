@@ -2,7 +2,8 @@
 This repo ( repository ) ...
 
 ## NotesT(oDo)
-* rank the initial opportunities, as they are recognized.
+* rank the initial opportunities, as they are recognized
+* establish schedule milestones
 * ask for confidentiality contracts & and written data transfer procedures
 * review the "bucket" environment
 * monitor the current effort to 'read' the MpAc data.
