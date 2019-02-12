@@ -2,6 +2,7 @@
 This repo ( repository ) ...
 
 ## NotesT(oDo)
+* extend opportunity rankings
 * rank the initial opportunities, as they are recognized
 * establish schedule milestones
 * review the "bucket" environment
