@@ -2,6 +2,7 @@
 This repo ( repository ) ...
 
 ## NotesT(oDo)
+* Trusted Customer Relationships Management focus.
 * extend opportunity rankings
 * rank the initial opportunities, as they are recognized
 * establish schedule milestones
