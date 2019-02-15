@@ -2,7 +2,7 @@
 This repo ( repository ) ...
 
 ## NotesT(oDo)
-SPIL = Subjects' Product Initiatives Laboratory
+SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 * Trusted Customer Relationships Management focus.
 * extend opportunity rankings
 * rank the initial opportunities, as they are recognized
