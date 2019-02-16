@@ -27,7 +27,7 @@ SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 
 <hr>
 
-## Folder strucures are likely different
+## Folder structures are likely different
 * explore the apparent differences between a Team repo and a User repo
 
 ## (media)wiki created in media-wiki style
