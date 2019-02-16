@@ -4,7 +4,7 @@ This repo ( repository ) ...
 ## NotesT(oDo)
 SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 * Trusted Customer Relationships Management focus.
-* extend opportunity rankings
+* extend opportunity rankings, distinguishing Short-term, Mid-term, and Long-term schedules
 * rank the initial opportunities, as they are recognized
 * establish schedule milestones
 * review the "bucket" environment
