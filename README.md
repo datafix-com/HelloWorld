@@ -7,7 +7,6 @@ SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 * extend opportunity rankings, distinguishing Short-term, Mid-term, and Long-term schedules
 * rank the initial opportunities, as they are recognized
 * establish schedule milestones
-* review the "bucket" environment
 * ask for confidentiality contracts & and written data transfer procedures
 * monitor the current effort to 'read' the MpAc data.
 * ask Warren if the emailed Teranet pages are an acceptable initial starting point.
