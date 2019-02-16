@@ -15,7 +15,6 @@ SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 <hr>
 
 * set up more of the tecnical community structure
-* review the GitHub BootCamp
 * integrate a StackEdit interface
 * discuss documentation structures that will assist new users
 * noted that the selected options will build the project page(s) from the master branch as opposed to the docs directory
