@@ -14,17 +14,6 @@ SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 
 <hr>
 
-* set up more of the technical community structure
-* integrate a StackEdit interface
-* discuss documentation structures that will assist new users
-* noted that the selected options will build the project page(s) from the master branch as opposed to the docs directory
-* determine if this can or should be changed
-* extend the ThreeByThree concept ( 3X3 = last + next 2 Events & next three decades )
-* the documentation of the 3X3 concept may be better place elsewhere,
-...
-
-<hr>
-
 ## Folder structures are likely different
 * explore the apparent differences between a Team repo and a User repo
 
