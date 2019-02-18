@@ -1,5 +1,7 @@
 # ⓿ HelloWorld
-This repo ( repository ) has been forked to create a working copy in an https://github.com/HwWobbe repo.  This should provide an opportunity to create a PR to bring updates back.
+This repo ( repository ) is currently being restructured.
+
+It has been forked to create a working copy in an https://github.com/HwWobbe repo.  This should provide an opportunity to create a PR to bring updates back.
 
 ## NotesT(oDo)
 SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
