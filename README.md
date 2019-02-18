@@ -14,6 +14,7 @@ SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 * ask Warren if the emailed Teranet pages are an acceptable initial starting point.
 * continue editing them
 
+Additional Task notes @ https://github.com/datafix-com/HelloWorld/blob/master/7.0%20Recommendations.md
 <hr>
 
 ## Folder structures are likely different
