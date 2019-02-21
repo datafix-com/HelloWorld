@@ -5,7 +5,7 @@ It has been forked to create a working copy in an https://github.com/HwWobbe rep
 
 ## NotesT(oDo)
 SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
-* discuss Els plans
+* discuss Els plans with Wkh
 * git command review by hwo, per provided link.
 * Trusted Customer Relationships Management focus.
 * extend opportunity rankings, distinguishing Short-term, Mid-term, and Long-term schedules
