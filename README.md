@@ -28,6 +28,3 @@ Additional Task notes @ https://github.com/datafix-com/HelloWorld/blob/master/7.
 
 ## Folder structures are likely different
 * explore the apparent differences between a Team repo and a User repo
-
-## (media)wiki created in media-wiki style
-* decide on uses
