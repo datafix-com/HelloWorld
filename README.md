@@ -4,6 +4,7 @@ This repo ( repository ) is currently being restructured.
 A file appears to be the smallest unit of text that can be manipulated. Implications include ...
 
 * it may not be necessary to move a file if it can actually appear in more than one Project.
+* confirm that this is possible
 * remove material from this Private file, to the sibling file in my Public repo (as waranted).
 
 It has been forked to create a working copy in an https://github.com/HwWobbe repo.  This was part of testing a workflow that spans these repos.
