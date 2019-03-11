@@ -11,6 +11,7 @@ It has been forked to create a working copy in an https://github.com/HwWobbe rep
 
 ## NotesT(oDo)
 SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
+* Can this be merged into TU objectoves?
 * discuss Els plans with Wkh & assess degree of possible automation
 * review TU role
 * review Mission Statement
