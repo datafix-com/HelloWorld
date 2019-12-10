@@ -1,5 +1,5 @@
 # ⓿ HelloWorld
-This repo ( repository ) is currently being restructured.
+This repo ( repository ) is currently quiesced.
 
 A file appears to be the smallest unit of text that can be manipulated. Implications include ...
 
