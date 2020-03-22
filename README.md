@@ -2,6 +2,8 @@
 This repo ( repository ) is currently quiesced.
 * while quiesced, its role in future protocols resulting from the Corona-19 virus will be reviewed. 
 
+----
+
 A file appears to be the smallest unit of text that can be manipulated. Implications include ...
 
 * it may not be necessary to move a file if it can actually appear in more than one Project.
