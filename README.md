@@ -2,7 +2,7 @@
 This repo ( repository ) is currently quiesced.
 * while quiesced, its role in future protocols resulting from the Corona-19 virus will be reviewed. 
 * considering a resumption via Fast.io
- * * this read seems to  functioning correctly
+ * * this readme seems to  functioning correctly
 
 ----
 
