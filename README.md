@@ -1,5 +1,5 @@
 # ⓿ HelloWorld
-This repo ( repository ) is currently quiesced.
+This repo ( repository ) is currently active as a test.
 * while quiesced, its role in future protocols resulting from the Corona-19 virus will be reviewed. 
 * considering a resumption via Fast.io
  * * this readme seems to  functioning correctly
