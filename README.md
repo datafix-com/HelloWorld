@@ -1,6 +1,7 @@
 # ⓿ HelloWorld
 This repo ( repository ) is currently active as a test of FastIo.
-* while quiesced, its role in future protocols resulting from the Corona-19 virus will be reviewed. 
+* while quiesced, its role in future protocols resulting from the Corona-19 virus was reviewed. 
+* * this is not yet comlete
 * considering a resumption via Fast.io
  * * this readme seems to  functioning correctly
  * * confirming the bi-directional 
