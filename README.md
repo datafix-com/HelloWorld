@@ -2,6 +2,8 @@
 
 2020.06.19: surprised at Warren's preference for proprietary Sharepoint use as opposed to a GitHub wiki solution.
 
+----
+
 This repo ( repository ) is currently active as a test of FastIo.
 * while quiesced, its role in future protocols resulting from the Corona-19 virus was reviewed. 
 * * this is not yet comlete
