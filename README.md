@@ -2,6 +2,10 @@
 
 2020.06.19: surprised at Warren's preference for proprietary Sharepoint use as opposed to a GitHub wiki solution.
 
+This should not be a problem for our FossDevs given the rate of library evolution we are enjoying.
+
+encourage GitHub for EdD (SrEd) work.
+
 ----
 
 This repo ( repository ) is currently active as a test of FastIo.
