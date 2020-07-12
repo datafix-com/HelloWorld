@@ -1,5 +1,6 @@
 # ⓿ HelloWorld
 
+2020.07.10: Confirmed that TiddlyWiki can be used within Teams.  This reduces the Collaboration/Productivity concerns
 2020.06.19: surprised at Warren's preference for proprietary Sharepoint use as opposed to a GitHub wiki solution.
 
 This should not be a problem for our FossDevs given the rate of library evolution we are enjoying.
