@@ -4,6 +4,8 @@
 ## 2021.01:
 ### 2021.01.01: Happy New Year!
 
+----
+
 # 2020:
 #### 2020.11.15: Dropbox/Droppages is now working quite effectively
 #### 2020.07.10: Confirmed that TiddlyWiki can be used within Teams.  This reduces the Collaboration/Productivity concerns
