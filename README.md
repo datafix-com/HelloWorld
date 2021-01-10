@@ -2,9 +2,12 @@
 
 # 2021:
 ## 2021.01:
-### 2020.02.10: reviewing development options
-### 2021.01.01: Happy New Year!
+### 2020.02.10: reviewing development options, including:
 
+* an Edit capability for the AWS server prototype
+* * consider a sql wersion for improved support
+
+### 2021.01.01: Happy New Year!
 ----
 
 # 2020:
