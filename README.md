@@ -2,6 +2,7 @@
 
 # 2021:
 ## 2021.01:
+### 2020.02.10: reviewing development options
 ### 2021.01.01: Happy New Year!
 
 ----
