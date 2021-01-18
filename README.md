@@ -2,6 +2,8 @@
 
 # 2021:
 ## 2021.01:
+### 2021.01.21: AdManCa talks with G.
+# 2020:
 ### 2020.02.10: reviewing development options, including:
 
 * an Edit capability for the AWS server prototype
