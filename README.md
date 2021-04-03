@@ -1,9 +1,13 @@
 # ⓿ HelloWorld
 
 # 2021:
-## 2021.03: (persistent) lack of interest
+## 2021.04:
 
-* shows inadequate communication.
+## 2021.03: 
+### (persistent) lack of interest
+
+* shows weak communication among senior management team members
+* The use and refinement of Governance tools may improve this.
 
 ## 2021.01:
 ### 2021.01.21: AdManCa talks with G.
@@ -11,7 +15,7 @@
 ### 2020.02.10: reviewing development options, including:
 
 * an Edit capability for the AWS server prototype
-* * consider a sql wersion for improved support
+* * consider a sql version for improved support
 
 ### 2021.01.01: Happy New Year!
 ----
