@@ -3,7 +3,7 @@
 # 2021:
 ## 2021.03: (persistent) lack of interest
 
-* shows ionadequate communication.
+* shows inadequate communication.
 
 ## 2021.01:
 ### 2021.01.21: AdManCa talks with G.
