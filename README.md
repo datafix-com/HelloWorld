@@ -4,7 +4,7 @@
 ## 2021.04:
 
 * consider re-establishing the PIL as a next step towar5ds a larger EmbCa relationship
-* 2021.04: TiddlyHost has mitigated the need for a GitHub solution 
+* TiddlyHost has mitigated the need for a GitHub solution 
 
 ## 2021.03: 
 ### (persistent) lack of interest
