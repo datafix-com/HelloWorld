@@ -1,7 +1,8 @@
 # ⓿ HelloWorld
 
 # 2021:
-## 2021.06: found that CommunityWiki was back with Edit capabilities.
+## 2021.06: 
+* Found that CommunityWiki was back with Edit capabilities.
 ## 2021.04:
 
 * consider re-establishing the PIL as a next step towar5ds a larger EmbCa relationship
