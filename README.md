@@ -1,6 +1,10 @@
 # ⓿ HelloWorld
 
 # 2021:
+
+## 2021.07:
+* considering annotation for MeatballWiki, CommunityWiki, WardsWiki, ...
+
 ## 2021.06: 
 * Found that CommunityWiki was back with Edit capabilities.
 * Considering the Lack of Collaboration.
