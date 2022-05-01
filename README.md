@@ -1,8 +1,11 @@
 # ⓿ HelloWorld
 
 # 2022-05:
-* ...
 
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
 
 # 2022.03:
 * lack of collaboration suggests forking an archive and re-engaging
