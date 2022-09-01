@@ -1,7 +1,7 @@
 # ⓿ HelloWorld
 
 # 2022-09:
-* ...
+* Should this page morph into an index file?
 
 # 2022-07:
 * rename MASTER to MAIN
