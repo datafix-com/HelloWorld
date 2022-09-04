@@ -4,7 +4,7 @@
 * Collaboration (in the best interests of Clients and Staff) may lead to:
 * * Joint Ventures (with Digital ID orgs)
 * * Value Added Reseller arrangements
-* * Distribution Deals 
+* * Distribution Deals (wider Territories)
 * * Investment Opportunities
 * Contacted for support via a PM in LinkedIn
 * * consider building on this with a SSM collaboration
