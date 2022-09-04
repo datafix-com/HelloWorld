@@ -1,6 +1,10 @@
 # ⓿ HelloWorld
 
 # 2022-09:
+* Collaboration may lead to:
+* * Distribution
+* * jointVentures
+* * Investments
 * Contacted for support via a PM in LinkedIn
 * * consider building on this with a SSM collaboration
 * ( Should this page morph into an index file? )DiiGo
