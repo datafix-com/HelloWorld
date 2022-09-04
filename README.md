@@ -5,7 +5,7 @@
 * * Joint Ventures (with Digital ID orgs)
 * * Value Added Reseller arrangements
 * * Distribution Deals (wider Territories)
-* * Investment Opportunities
+* * Investment Opportunities (opportunities to build out AdManCa faster)
 * Contacted for support via a PM in LinkedIn
 * * consider building on this with a SSM collaboration
 * ( Should this page morph into an index file? )DiiGo
