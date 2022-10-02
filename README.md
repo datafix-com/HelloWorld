@@ -6,6 +6,7 @@
 * * Value Added Reseller arrangements
 * * Distribution Deals (wider Territories)
 * * Investment Opportunities (opportunities to build out AdManCa faster)
+* * * Certification initiatives (eg. Eon SmD )
 * Contacted for support via a PM in LinkedIn
 * * suggest building on this with a SSM collaboration
 * ( Should this page morph into an index file? )DiiGo
