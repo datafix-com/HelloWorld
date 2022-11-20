@@ -1,6 +1,25 @@
 # ⓿ HelloWorld
+* is this '++..."markup still useful?
 
-# 2022-05:
+=====
+
+# 2022-12:
+* Collaboration (in the best interests of Clients and Staff) may lead to:
+* * Joint Ventures (with Digital ID orgs)
+* * Value Added Reseller arrangements
+* * Distribution Deals (wider Territories)
+* * Investment Opportunities (opportunities to build out AdManCa faster)
+* * * Certification initiatives (eg. Eon SmD )
+* Contacted for support via a PM in LinkedIn
+* * suggest building on this with a SSM collaboration
+* ( Should this page morph into an index file? )DiiGo
+* Fork this page to my own ID
+
+# 2022-11:
+* renamed MASTER to MAIN
+* ...
+
+<hr>
 
 git branch -m master main
 
@@ -9,6 +28,9 @@ git fetch origin
 git branch -u origin/main main
 
 git remote set-head origin -a
+
+# 2022-05:
+* Consider the relative merits of the date delimiters, ecpecially with respoct to Parsing.
 
 # 2022.03:
 * lack of collaboration suggests forking an archive and re-engaging
