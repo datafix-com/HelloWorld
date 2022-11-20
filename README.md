@@ -1,7 +1,4 @@
 # ⓿ HelloWorld
-* is this '++..."markup still useful?
-
-=====
 
 # 2022-12:
 * Collaboration (in the best interests of Clients and Staff) may lead to:
