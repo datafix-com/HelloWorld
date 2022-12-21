@@ -4,6 +4,8 @@
 * intensify development of Address Management prototypes and Addresses
 * * start developing ViewHw of TaskH RFPs
 
+<hr>
+
 # 2022-12:
 * Collaboration (in the best interests of Clients and Staff) may lead to:
 * * Joint Ventures (with Digital ID orgs)
