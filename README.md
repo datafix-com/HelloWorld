@@ -3,6 +3,7 @@
 # 2023-01:
 * intensify development of Address Management prototypes and Addresses
 * * start developing ViewHw of TaskH RFPs
+* * * clarify this
 
 <hr>
 
