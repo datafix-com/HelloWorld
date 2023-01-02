@@ -5,6 +5,9 @@
 * * start developing ViewHw of TaskH RFPs
 * * * clarify this
 
+## 2023-01-02:
+* Pulse checkpoint.
+
 <hr>
 
 # 2022-12:
