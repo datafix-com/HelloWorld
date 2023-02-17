@@ -59,7 +59,7 @@ git remote set-head origin -a
 
 ## 2021.04:
 
-* consider re-establishing the PIL as a next step towar5ds a larger EmbCa relationship
+* consider re-establishing the PIL as a next step towards a larger EmbCa relationship
 * TiddlyHost has mitigated the need for a GitHub solution 
 
 ## 2021.03: 
@@ -75,6 +75,7 @@ git remote set-head origin -a
 
 * an Edit capability for the AWS server prototype
 * * consider a sql version for improved support
+* * * 2022-12: this technical solution has been surplanted by XememeX.H
 
 ### 2021.01.01: Happy New Year!
 ----
