@@ -1,5 +1,10 @@
 # ⓿ HelloWorld
 
+# 2023-02:
+* accept personal tenencies of using their SwOt when challenged.
+* * study the personal Factors and engage as efficiently as possible
+* * * justifications are then merely rationalizations (that may not even be needed)
+
 # 2023-01:
 * intensify development of Address Management prototypes and Addresses
 * * start developing ViewHw of TaskH RFPs
