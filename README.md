@@ -1,5 +1,8 @@
 # ⓿ HelloWorld
 
+# 2023-04:
+* ... resuming ( a bit )
+
 # 2023-02:
 * accept personal tenencies of using their SwOt when challenged.
 * * study the personal Factors and engage as efficiently as possible
