@@ -1,5 +1,8 @@
 # ⓿ HelloWorld
 
+# 2023-05:
+* on-going attention verification probes
+
 # 2023-04:
 * ... resuming ( a bit )
 
