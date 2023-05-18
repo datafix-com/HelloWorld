@@ -3,7 +3,7 @@
 # 2023-05:
 * on-going attention verification probes
 * * a Quarterly review should be sufficent on the basis of observations.
-* * * try using GitHub for off-shore coll;aborations
+* * Try using GitHub for off-shore coll;aborations.
 
 # 2023-04:
 * ... resuming ( a bit )
