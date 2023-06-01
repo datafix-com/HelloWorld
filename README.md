@@ -1,6 +1,7 @@
 # ⓿ HelloWorld
 
 # 2023-06:
+* -06-01: "Pulse" checkpoint.
 * TwV530 now scheduled for -06-26
 
 # 2023-05:
