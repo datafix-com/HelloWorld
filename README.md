@@ -1,5 +1,8 @@
 # ⓿ HelloWorld
 
+# 2023-06:
+* TwV530 now scheduled for -06-26
+
 # 2023-05:
 * on-going attention verification probes
 * * a Quarterly review should be sufficent on the basis of observations.
