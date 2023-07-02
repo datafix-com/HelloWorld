@@ -1,5 +1,9 @@
 # ⓿ HelloWorld
 
+# 2023-07:
+* this is the last input to this repo by H. since it is now deprecated, in his view.
+  * some purging may begin
+
 # 2023-06:
 * -06-01: "Pulse" checkpoint.
 * TwV530 now scheduled/anticipated for -06-26.
